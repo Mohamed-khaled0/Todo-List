@@ -19,11 +19,6 @@ UserDefaults is used for storing simple data types such as strings, integers, an
 
 Core Data is a powerful framework provided by Apple for managing the model layer of an application. It allows for the creation, reading, updating, and deleting of complex data models. In this app, Core Data is used to store and manage the tasks created by the user.
 
-### Realm
-
-Realm is a mobile database that is designed to be fast, efficient, and easy to use. It provides features such as object relationships, thread safety, and encryption. In this app, Realm may be used as an alternative to Core Data for storing tasks.
-
-
 ## Getting Started
 
 To use this app, follow these steps:
